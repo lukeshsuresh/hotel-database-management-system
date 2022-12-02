@@ -1,4 +1,4 @@
-# HOTEL-MANAGEMENT-SYSTEM-DATABASE-PROJECT
+# HOTEL DATABASE MANAGEMENT SYSTEM PROJECT
 
 # Details
 
@@ -73,7 +73,7 @@ Work in teams to determine the tables and relationships required
 
 Database must be normalized to 3rd normal form
 
-Create an EER Model of the completed database structure (Image file is acceptable)
+Create an ER Model of the completed database structure (Image file is acceptable)
 
 Make sure to include primary/foreign keys where appropriate
 
